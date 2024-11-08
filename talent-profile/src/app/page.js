@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-purple-400 via-blue-500 to-pink-500">
       <ProfileCard
-        name="Jane Doe"
+        name="Samir Kumar Kunwar"
         title="Frontend Developer"
         bio="Experienced in creating beautiful and functional interfaces. Passionate about design and technology."
         skills={[
